@@ -1,13 +1,13 @@
 {
 	"manifest_version": 2,
-	"name": "CapyBara",
-	"version": "6.9",
+	"name": "John Xina",
+	"version": "42.0",
 
-	"description": "This addon replaces images with pictures of capybaras. Originally it replaced with Nicolas Cage images. (I changed it)",
+	"description": "This addon replaces images with pictures of Joh Zina. Originally it replaced with Nicolas Cage images. But the future is now and our lord John Xina as come to save us :3",
 	
 	"applications":{
 		"gecko":{
-			"id":""
+			"id":"federico@slongo.biz"
 		}
 	},
 	"icons": {
@@ -22,7 +22,7 @@
 				"*://*/*"
 			],
 			"js": [
-				"cageify.js"
+				"johnify.js"
 			]
 		}
 	],
@@ -33,5 +33,5 @@
 		"page": "options.html",
 		"browser_style": true
 	},
-	"homepage_url": "http://github.com/not-DEADPOOL/CapyBaraAddon"
+	"homepage_url": "https://github.com/FedericoSlongo/"
 }
