@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
 	"name": "John Xina",
-	"version": "42.0",
+	"version": "69.0",
 
-	"description": "This addon replaces images with pictures of Joh Zina. Originally it replaced with Nicolas Cage images. But the future is now and our lord John Xina as come to save us :3",
+	"description": "This addon replaces images with pictures of John Xina. Originally it replaced with Nicolas Cage images. But the future is now and our lord John Xina as come to save us :3",
 	
 	"applications":{
 		"gecko":{
